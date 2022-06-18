@@ -1,0 +1,267 @@
+[{'game': 'Игра для консоли PlayStation 4 Grand Theft Auto V Premium Edition'}, {'game': 'Игра для консоли PlayStation 4 Minecraft'}, {'game': 'Игра для консоли PlayStation 4 Mortal Kombat 11'}, {'game': 'Игра для консоли PlayStation 4 UFC 4'}, {'game': 'Игра для консоли PlayStation 4 Cyberpunk 2077'}, {'game': 'Игра для консоли PlayStation 4 Call of Duty: Black Ops Cold War (88490UR)'}, {'game': 'Игра для консоли PlayStation 4 Red Dead Redemption 2'}, {'game': 'Игра для консоли PlayStation 4 Days Gone/Жизнь после'}, {'game': 'Игра для консоли PlayStation 4 Star Wars Squadrons'}, {'game': 'Игра для консоли PlayStation 4 Resident Evil Village'}, {'game': 'Игра для консоли PlayStation 4 Sackboy A Big Adventure'}, {'game': 'Игра для консоли PlayStation 4 Far Cry 6'}, {'game': 'Игра для консоли PlayStation 4 Far Cry 6 Yara Edition'}, {'game': 'Игра для консоли PlayStation 4 NBA 2K22'}, {'game': 'Игра для консоли Playstation 4 Grand Theft Auto The Trilogy Definitive Edition PS4'}, {'game': "Игра для консоли Playstation 4 Призрак Цусимы Director's Cut PS4"}, {'game': 'Игра Для Консоли Playstation 4 Horizon Forbidden West/Запретный Запад'}, {'game': 'Игра для консоли PlayStation 4 Shadow of the Tomb Raider'}, {'game': 'Игра для консоли Playstation 4 Fifa 22'}, {'game': 'Игра для консоли Sony PlayStation 4 Elden Ring'}, {'game': 'Игра для консоли PlayStation 4 Стражи галактики'}, {'game': 'Игра для консоли PlayStation 4 Naruto Shippuden Ultimate Ninja Storm 4 Road to Boruto'}, {'game': 'Игра для консоли PlayStation 4 Naruto Shippuden Ultimate Ninja Storm 4'}]
+[{'game': 'Игра для консоли PlayStation 4 Grand Theft Auto V Premium Edition'}, {'game': 'Игра для консоли PlayStation 4 Minecraft'}, {'game': 'Игра для консоли PlayStation 4 Mortal Kombat 11'}, {'game': 'Игра для консоли PlayStation 4 UFC 4'}, {'game': 'Игра для консоли PlayStation 4 Cyberpunk 2077'}, {'game': 'Игра для консоли PlayStation 4 Call of Duty: Black Ops Cold War (88490UR)'}, {'game': 'Игра для консоли PlayStation 4 Red Dead Redemption 2'}, {'game': 'Игра для консоли PlayStation 4 Days Gone/Жизнь после'}, {'game': 'Игра для консоли PlayStation 4 Star Wars Squadrons'}, {'game': 'Игра для консоли PlayStation 4 Resident Evil Village'}, {'game': 'Игра для консоли PlayStation 4 Sackboy A Big Adventure'}, {'game': 'Игра для консоли PlayStation 4 Far Cry 6'}, {'game': 'Игра для консоли PlayStation 4 Far Cry 6 Yara Edition'}, {'game': 'Игра для консоли PlayStation 4 NBA 2K22'}, {'game': 'Игра для консоли Playstation 4 Grand Theft Auto The Trilogy Definitive Edition PS4'}, {'game': "Игра для консоли Playstation 4 Призрак Цусимы Director's Cut PS4"}, {'game': 'Игра Для Консоли Playstation 4 Horizon Forbidden West/Запретный Запад'}, {'game': 'Игра для консоли PlayStation 4 Shadow of the Tomb Raider'}, {'game': 'Игра для консоли Playstation 4 Fifa 22'}, {'game': 'Игра для консоли Sony PlayStation 4 Elden Ring'}, {'game': 'Игра для консоли PlayStation 4 Стражи галактики'}, {'game': 'Игра для консоли PlayStation 4 Naruto Shippuden Ultimate Ninja Storm 4 Road to Boruto'}, {'game': 'Игра для консоли PlayStation 4 Naruto Shippuden Ultimate Ninja Storm 4'}]
+[{'name': 'Игра для консоли PlayStation 4 Grand Theft Auto V Premium Edition', 'price': '5 190 сомесли 2й в чекеЦена:3 990 сом'}, {'name': 'Игра для консоли PlayStation 4 Minecraft', 'price': 'если 2й в чекеЦена:2 490 сом'}, {'name': 'Игра для консоли PlayStation 4 Mortal Kombat 11', 'price': '5 990 сомесли 2й в чекеЦена:4 190 сом'}, {'name': 'Игра для консоли PlayStation 4 UFC 4', 'price': '6 590 сомесли 2й в чекеЦена:5 190 сом'}, {'name': 'Игра для консоли PlayStation 4 Cyberpunk 2077', 'price': '5 190 сомесли 2й в чекеЦена:3 690 сом'}, {'name': 'Игра для консоли PlayStation 4 Call of Duty: Black Ops Cold War (88490UR)', 'price': '6 590 сомесли 2й в чекеЦена:4 590 сом'}, {'name': 'Игра для консоли PlayStation 4 Red Dead Redemption 2', 'price': 'если 2й в чекеЦена:6 990 сом'}, {'name': 'Игра для консоли PlayStation 4 Days Gone/Жизнь после', 'price': 'если 2й в чекеЦена:3 390 сом'}, {'name': 'Игра для консоли PlayStation 4 Star Wars Squadrons', 'price': '3 599 сомесли 2й в чекеЦена:1 890 сом'}, {'name': 'Игра для консоли PlayStation 4 Resident Evil Village', 'price': 'если 2й в чекеЦена:4 090 сом'}, {'name': 'Игра для консоли PlayStation 4 Sackboy A Big Adventure', 'price': 'если 2й в чекеЦена:5 690 сом'}, {'name': 'Игра для консоли PlayStation 4 Far Cry 6', 'price': '5 990 сомесли 2й в чекеЦена:5 490 сом'}, {'name': 'Игра для консоли PlayStation 4 Far Cry 6 Yara Edition', 'price': '6 590 сомесли 2й в чекеЦена:5 990 сом'}, {'name': 'Игра для консоли PlayStation 4 NBA 2K22', 'price': 'если 2й в чекеЦена:5 090 сом'}, {'name': 'Игра для консоли Playstation 4 Grand Theft Auto The Trilogy Definitive Edition PS4', 'price': 'если 2й в чекеЦена:5 490 сом'}, {'name': "Игра для консоли Playstation 4 Призрак Цусимы Director's Cut PS4", 'price': 'если 2й в чекеЦена:6 990 сом'}, {'name': 'Игра Для Консоли Playstation 4 Horizon Forbidden West/Запретный Запад', 'price': 'если 2й в чекеЦена:5 690 сом'}, {'name': 'Игра для консоли PlayStation 4 Shadow of the Tomb Raider', 'price': '3 900 сомесли 2й в чекеЦена:3 590 сом'}, {'name': 'Игра для консоли Playstation 4 Fifa 22', 'price': 'Сообщите когда появится'}, {'name': 'Игра для консоли Sony PlayStation 4 Elden Ring', 'price': 'Сообщите когда появится'}, {'name': 'Игра для консоли PlayStation 4 Стражи галактики', 'price': 'Сообщите когда появится'}, {'name': 'Игра для консоли PlayStation 4 Naruto Shippuden Ultimate Ninja Storm 4 Road to Boruto', 'price': 'Сообщите когда появится'}, {'name': 'Игра для консоли PlayStation 4 Naruto Shippuden Ultimate Ninja Storm 4', 'price': 'Сообщите когда появится'}]
+[{'name': 'Игра для консоли PlayStation 4 Grand Theft Auto V Premium Edition', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>3 990 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 Minecraft', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>2 490 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 Mortal Kombat 11', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>4 190 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 UFC 4', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>5 190 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 Cyberpunk 2077', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>3 690 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 Call of Duty: Black Ops Cold War (88490UR)', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>4 590 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 Red Dead Redemption 2', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>6 990 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 Days Gone/Жизнь после', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>3 390 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 Star Wars Squadrons', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>1 890 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 Resident Evil Village', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>4 090 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 Sackboy A Big Adventure', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>5 690 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 Far Cry 6', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>5 490 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 Far Cry 6 Yara Edition', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>5 990 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 NBA 2K22', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>5 090 сом</span>
+</div>}, {'name': 'Игра для консоли Playstation 4 Grand Theft Auto The Trilogy Definitive Edition PS4', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>5 490 сом</span>
+</div>}, {'name': "Игра для консоли Playstation 4 Призрак Цусимы Director's Cut PS4", 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>6 990 сом</span>
+</div>}, {'name': 'Игра Для Консоли Playstation 4 Horizon Forbidden West/Запретный Запад', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>5 690 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 Shadow of the Tomb Raider', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>3 590 сом</span>
+</div>}, {'name': 'Игра для консоли Playstation 4 Fifa 22', 'price': None}, {'name': 'Игра для консоли Sony PlayStation 4 Elden Ring', 'price': None}, {'name': 'Игра для консоли PlayStation 4 Стражи галактики', 'price': None}, {'name': 'Игра для консоли PlayStation 4 Naruto Shippuden Ultimate Ninja Storm 4 Road to Boruto', 'price': None}, {'name': 'Игра для консоли PlayStation 4 Naruto Shippuden Ultimate Ninja Storm 4', 'price': None}]
+[{'name': 'Игра для консоли PlayStation 4 Grand Theft Auto V Premium Edition', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>3 990 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 Minecraft', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>2 490 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 Mortal Kombat 11', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>4 190 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 UFC 4', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>5 190 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 Cyberpunk 2077', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>3 690 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 Call of Duty: Black Ops Cold War (88490UR)', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>4 590 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 Red Dead Redemption 2', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>6 990 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 Days Gone/Жизнь после', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>3 390 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 Star Wars Squadrons', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>1 890 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 Resident Evil Village', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>4 090 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 Sackboy A Big Adventure', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>5 690 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 Far Cry 6', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>5 490 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 Far Cry 6 Yara Edition', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>5 990 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 NBA 2K22', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>5 090 сом</span>
+</div>}, {'name': 'Игра для консоли Playstation 4 Grand Theft Auto The Trilogy Definitive Edition PS4', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>5 490 сом</span>
+</div>}, {'name': "Игра для консоли Playstation 4 Призрак Цусимы Director's Cut PS4", 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>6 990 сом</span>
+</div>}, {'name': 'Игра Для Консоли Playstation 4 Horizon Forbidden West/Запретный Запад', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>5 690 сом</span>
+</div>}, {'name': 'Игра для консоли PlayStation 4 Shadow of the Tomb Raider', 'price': <div class="price">
+<span class="hidden">Цена:</span>
+<span>3 590 сом</span>
+</div>}, {'name': 'Игра для консоли Playstation 4 Fifa 22', 'price': None}, {'name': 'Игра для консоли Sony PlayStation 4 Elden Ring', 'price': None}, {'name': 'Игра для консоли PlayStation 4 Стражи галактики', 'price': None}, {'name': 'Игра для консоли PlayStation 4 Naruto Shippuden Ultimate Ninja Storm 4 Road to Boruto', 'price': None}, {'name': 'Игра для консоли PlayStation 4 Naruto Shippuden Ultimate Ninja Storm 4', 'price': None}]
+[{'title': 'Игра для консоли PlayStation 4 Grand Theft Auto V Premium Edition', 'price': <div class="prices-container">
+<div class="old-price"><span>5 190 сом</span></div>
+<div class="cascade-price">
+<div class="price-subtitle">если 2й в чеке</div>
+</div>
+<div class="price">
+<span class="hidden">Цена:</span>
+<span>3 990 сом</span>
+</div>
+</div>}, {'title': 'Игра для консоли PlayStation 4 Minecraft', 'price': <div class="prices-container">
+<div class="cascade-price">
+<div class="price-subtitle">если 2й в чеке</div>
+</div>
+<div class="price">
+<span class="hidden">Цена:</span>
+<span>2 490 сом</span>
+</div>
+</div>}, {'title': 'Игра для консоли PlayStation 4 Mortal Kombat 11', 'price': <div class="prices-container">
+<div class="old-price"><span>5 990 сом</span></div>
+<div class="cascade-price">
+<div class="price-subtitle">если 2й в чеке</div>
+</div>
+<div class="price">
+<span class="hidden">Цена:</span>
+<span>4 190 сом</span>
+</div>
+</div>}, {'title': 'Игра для консоли PlayStation 4 UFC 4', 'price': <div class="prices-container">
+<div class="old-price"><span>6 590 сом</span></div>
+<div class="cascade-price">
+<div class="price-subtitle">если 2й в чеке</div>
+</div>
+<div class="price">
+<span class="hidden">Цена:</span>
+<span>5 190 сом</span>
+</div>
+</div>}, {'title': 'Игра для консоли PlayStation 4 Cyberpunk 2077', 'price': <div class="prices-container">
+<div class="old-price"><span>5 190 сом</span></div>
+<div class="cascade-price">
+<div class="price-subtitle">если 2й в чеке</div>
+</div>
+<div class="price">
+<span class="hidden">Цена:</span>
+<span>3 690 сом</span>
+</div>
+</div>}, {'title': 'Игра для консоли PlayStation 4 Call of Duty: Black Ops Cold War (88490UR)', 'price': <div class="prices-container">
+<div class="old-price"><span>6 590 сом</span></div>
+<div class="cascade-price">
+<div class="price-subtitle">если 2й в чеке</div>
+</div>
+<div class="price">
+<span class="hidden">Цена:</span>
+<span>4 590 сом</span>
+</div>
+</div>}, {'title': 'Игра для консоли PlayStation 4 Red Dead Redemption 2', 'price': <div class="prices-container">
+<div class="cascade-price">
+<div class="price-subtitle">если 2й в чеке</div>
+</div>
+<div class="price">
+<span class="hidden">Цена:</span>
+<span>6 990 сом</span>
+</div>
+</div>}, {'title': 'Игра для консоли PlayStation 4 Days Gone/Жизнь после', 'price': <div class="prices-container">
+<div class="cascade-price">
+<div class="price-subtitle">если 2й в чеке</div>
+</div>
+<div class="price">
+<span class="hidden">Цена:</span>
+<span>3 390 сом</span>
+</div>
+</div>}, {'title': 'Игра для консоли PlayStation 4 Star Wars Squadrons', 'price': <div class="prices-container">
+<div class="old-price"><span>3 599 сом</span></div>
+<div class="cascade-price">
+<div class="price-subtitle">если 2й в чеке</div>
+</div>
+<div class="price">
+<span class="hidden">Цена:</span>
+<span>1 890 сом</span>
+</div>
+</div>}, {'title': 'Игра для консоли PlayStation 4 Resident Evil Village', 'price': <div class="prices-container">
+<div class="cascade-price">
+<div class="price-subtitle">если 2й в чеке</div>
+</div>
+<div class="price">
+<span class="hidden">Цена:</span>
+<span>4 090 сом</span>
+</div>
+</div>}, {'title': 'Игра для консоли PlayStation 4 Sackboy A Big Adventure', 'price': <div class="prices-container">
+<div class="cascade-price">
+<div class="price-subtitle">если 2й в чеке</div>
+</div>
+<div class="price">
+<span class="hidden">Цена:</span>
+<span>5 690 сом</span>
+</div>
+</div>}, {'title': 'Игра для консоли PlayStation 4 Far Cry 6', 'price': <div class="prices-container">
+<div class="old-price"><span>5 990 сом</span></div>
+<div class="cascade-price">
+<div class="price-subtitle">если 2й в чеке</div>
+</div>
+<div class="price">
+<span class="hidden">Цена:</span>
+<span>5 490 сом</span>
+</div>
+</div>}, {'title': 'Игра для консоли PlayStation 4 Far Cry 6 Yara Edition', 'price': <div class="prices-container">
+<div class="old-price"><span>6 590 сом</span></div>
+<div class="cascade-price">
+<div class="price-subtitle">если 2й в чеке</div>
+</div>
+<div class="price">
+<span class="hidden">Цена:</span>
+<span>5 990 сом</span>
+</div>
+</div>}, {'title': 'Игра для консоли PlayStation 4 NBA 2K22', 'price': <div class="prices-container">
+<div class="cascade-price">
+<div class="price-subtitle">если 2й в чеке</div>
+</div>
+<div class="price">
+<span class="hidden">Цена:</span>
+<span>5 090 сом</span>
+</div>
+</div>}, {'title': 'Игра для консоли Playstation 4 Grand Theft Auto The Trilogy Definitive Edition PS4', 'price': <div class="prices-container">
+<div class="cascade-price">
+<div class="price-subtitle">если 2й в чеке</div>
+</div>
+<div class="price">
+<span class="hidden">Цена:</span>
+<span>5 490 сом</span>
+</div>
+</div>}, {'title': "Игра для консоли Playstation 4 Призрак Цусимы Director's Cut PS4", 'price': <div class="prices-container">
+<div class="cascade-price">
+<div class="price-subtitle">если 2й в чеке</div>
+</div>
+<div class="price">
+<span class="hidden">Цена:</span>
+<span>6 990 сом</span>
+</div>
+</div>}, {'title': 'Игра Для Консоли Playstation 4 Horizon Forbidden West/Запретный Запад', 'price': <div class="prices-container">
+<div class="cascade-price">
+<div class="price-subtitle">если 2й в чеке</div>
+</div>
+<div class="price">
+<span class="hidden">Цена:</span>
+<span>5 690 сом</span>
+</div>
+</div>}, {'title': 'Игра для консоли PlayStation 4 Shadow of the Tomb Raider', 'price': <div class="prices-container">
+<div class="old-price"><span>3 900 сом</span></div>
+<div class="cascade-price">
+<div class="price-subtitle">если 2й в чеке</div>
+</div>
+<div class="price">
+<span class="hidden">Цена:</span>
+<span>3 590 сом</span>
+</div>
+</div>}, {'title': 'Игра для консоли Playstation 4 Fifa 22', 'price': None}, {'title': 'Игра для консоли Sony PlayStation 4 Elden Ring', 'price': None}, {'title': 'Игра для консоли PlayStation 4 Стражи галактики', 'price': None}, {'title': 'Игра для консоли PlayStation 4 Naruto Shippuden Ultimate Ninja Storm 4 Road to Boruto', 'price': None}, {'title': 'Игра для консоли PlayStation 4 Naruto Shippuden Ultimate Ninja Storm 4', 'price': None}]
