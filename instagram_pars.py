@@ -22,7 +22,58 @@ def get_content(html):
             'image':item.find('div',class_="tabloid").find('img').get('src')
         })
     return fol
+def save(items, path):
+    """ Сохранение данных """
+    with open(path, 'w') as file:
+        for num, item in enumerate(items,1):
+            file.write(f"№ {num} - Название {item['title']}\n")
+            file.write(f"№ {num} - Ссылка на фото {item['image']}\n")
+
 html = get_html(URL)
 file = open('folowers.csv','a')
 file.write(f'{get_content(html.text)}\n')
 print(get_content(html.text))
+
+##############################################
+
+def get_content(html):
+    """ Сортировка полученных данных """
+    soup = BeautifulSoup(html, 'html.parser')
+    """ soup нам дает все div классы с заданным названием """
+    items = soup.find_all('div', class_='item product_listbox oh')
+    new_list = []
+    for item in items:
+        new_list.append({
+            'title': item.find('div', class_='product_text pull-left').find('div', class_='listbox_title oh').find('a').get_text(strip=True),
+            'image': HOST + item.find('div', class_='listbox_img pull-left').find('img').get('src')
+        }) 
+    return new_list
+
+
+def save(items, path):
+    """ Сохранение данных """
+    with open(path, 'w') as file:
+        for num, item in enumerate(items,1):
+            file.write(f"№ {num} - Название {item['title']}\n")
+            file.write(f"№ {num} - Ссылка на фото {item['image']}\n")
+
+
+def parser():
+    page = int(input("Введите количество страниц: "))
+    html = get_html(URL)
+    
+    if html.status_code == 200:
+        new_list = []
+        for pg in range(1, page+1):
+            html = get_html(URL, params={'page': pg})
+
+            new_list.extend(get_content(html.text))
+            print(f'Страница {pg} готово!')
+
+        save(new_list, 'kivano_noutbuki.txt')
+        print('Парсинг прошел успешно')
+    else:
+        print('Не удалось достучатся до сайта')
+
+
+parser()

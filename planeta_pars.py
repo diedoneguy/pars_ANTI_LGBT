@@ -24,3 +24,12 @@ html = get_html(URL)
 file = open('planeta.csv','a')
 file.write(f'{get_content(html.text)}\n')
 print(get_content(html.text))
+
+def save(items, path):
+    """ Сохранение данных """
+    with open(path, 'a') as file:
+        for num, item in enumerate(items,1):
+            file.write(f"№ {num} - Название {item['title']}\n")
+            file.write(f"Цена {item['price']}\n")
+
+save(get_content(html.text), 'games.txt')

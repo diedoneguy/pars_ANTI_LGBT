@@ -265,3 +265,105 @@
 <span>3 590 сом</span>
 </div>
 </div>}, {'title': 'Игра для консоли Playstation 4 Fifa 22', 'price': None}, {'title': 'Игра для консоли Sony PlayStation 4 Elden Ring', 'price': None}, {'title': 'Игра для консоли PlayStation 4 Стражи галактики', 'price': None}, {'title': 'Игра для консоли PlayStation 4 Naruto Shippuden Ultimate Ninja Storm 4 Road to Boruto', 'price': None}, {'title': 'Игра для консоли PlayStation 4 Naruto Shippuden Ultimate Ninja Storm 4', 'price': None}]
+№ 1 - Название Телевизор Samsung QE65Q60AAUXCE
+Цена 108 990 сом
+№ 2 - Название Телевизор Samsung UE32N4000AUXCE
+Цена 19 990 сом20 990 сом
+№ 3 - Название Телевизор Sony KD-65XG7096
+Цена 109 990 сом
+№ 4 - Название Телевизор LG OLED65C1RLA
+Цена 212 990 сом
+№ 5 - Название Телевизор KIVI 32H740LW
+Цена 21 990 сом
+№ 6 - Название Телевизор LG 55NANO866PA
+Цена 83 990 сом
+№ 7 - Название Телевизор LG 43UP76906LE
+Цена 38 790 сом
+№ 8 - Название Телевизор KIVI 55U740LB
+Цена 55 990 сом
+№ 9 - Название Телевизор KIVI 43U740LB
+Цена 35 990 сом
+№ 10 - Название Телевизор KIVI 32H540LB
+Цена 16 990 сом
+№ 1 - Название Смартфон HUAWEI P40 Lite E Aurora Blue
+Цена Цена:14 590 сом
+№ 2 - Название Смартфон HUAWEI P40 Lite Sakura Pink
+Цена Цена:20 990 сом
+№ 3 - Название Смартфон Apple iPhone 7 32GB Black
+Цена Цена:36 390 сом
+№ 4 - Название Смартфон Apple iPhone 11 64GB Black Slim Box
+Цена Цена:56 390 сом
+№ 5 - Название Смартфон Apple iPhone SE 64GB 2020 Black
+Цена Цена:49 090 сом
+№ 6 - Название Смартфон Xiaomi Redmi 9A 2/32GB Sky Blue
+Цена Цена:9 090 сом
+№ 7 - Название Смартфон Apple iPhone 12 Pro Max 128GB Pacific Blue
+Цена Цена:141 890 сом
+№ 8 - Название Смартфон Apple iPhone 12 mini 64GB Blue
+Цена Цена:64 590 сом
+№ 9 - Название Смартфон Xiaomi Redmi 9A 2/32GB Granite Gray
+Цена Цена:9 090 сом
+№ 10 - Название Смартфон Apple iPhone 7 32GB Gold
+Цена Цена:36 390 сом
+№ 11 - Название Смартфон Xiaomi Redmi 9C 3/64GB Midnight Gray
+Цена Цена:12 790 сом
+№ 12 - Название Смартфон Apple iPhone 12 Pro 128GB Pacific Blue
+Цена Цена:128 790 сом
+№ 13 - Название Смартфон Apple iPhone XR 64GB Black
+Цена Цена:65 290 сом
+№ 14 - Название Смартфон Xiaomi Redmi 9A 2/32GB Peacock Green
+Цена Цена:9 090 сом
+№ 15 - Название Смартфон HUAWEI P30 Lite 128GB Peacock Blue
+Цена Цена:21 590 сом
+№ 16 - Название Смартфон Samsung Galaxy A32 4/64GB Black
+Цена Цена:21 790 сом
+№ 17 - Название Смартфон Samsung Galaxy S20 FE 6/128GB Cloud Navy
+Цена Цена:36 390 сом
+№ 18 - Название Смартфон Apple iPhone 7 32GB Silver
+Цена Цена:27 290 сом
+№ 19 - Название Смартфон Apple iPhone 11 64GB White Slim Box
+Цена Цена:56 390 сом
+№ 20 - Название Смартфон Samsung Galaxy A21s Red
+Цена Цена:14 790 сом
+№ 21 - Название Смартфон Apple iPhone 12 Pro 128GB Graphite
+Цена Цена:128 790 сом
+№ 22 - Название Смартфон Samsung Galaxy A52 128GB Awesome White
+Цена Цена:30 890 сом
+№ 23 - Название Смартфон Apple iPhone 12 Pro 256GB Pacific Blue
+Цена Цена:141 890 сом
+№ 24 - Название Смартфон Apple iPhone 7 32GB Rose Gold
+Цена Цена:36 390 сом
+№ 25 - Название Смартфон Apple iPhone XR 64GB (PRODUCT) RED
+Цена Цена:65 290 сом
+№ 26 - Название Смартфон Apple iPhone XR 64GB Black Slim Box
+Цена Цена:68 790 сом
+№ 27 - Название Смартфон Samsung Galaxy A52 8/256GB Awesome Black
+Цена Цена:36 390 сом
+№ 28 - Название Смартфон Xiaomi Poco F3 5G 8/256GB Night Black
+Цена Цена:39 990 сом
+№ 29 - Название Смартфон Xiaomi Redmi Note 10 Pro 8/128GB Glacier Blue
+Цена Цена:29 990 сом
+№ 30 - Название Смартфон Apple iPhone 12 64GB Black
+Цена Цена:69 090 сом
+№ 31 - Название Смартфон Samsung Galaxy A02 Black
+Цена Цена:9 990 сом
+№ 1 - Название Телевизор Samsung QE65Q60AAUXCE
+Цена 108 990 сом
+№ 2 - Название Телевизор Samsung UE32N4000AUXCE
+Цена 19 990 сом20 990 сом
+№ 3 - Название Телевизор Sony KD-65XG7096
+Цена 109 990 сом
+№ 4 - Название Телевизор LG OLED65C1RLA
+Цена 212 990 сом
+№ 5 - Название Телевизор KIVI 32H740LW
+Цена 21 990 сом
+№ 6 - Название Телевизор LG 55NANO866PA
+Цена 83 990 сом
+№ 7 - Название Телевизор LG 43UP76906LE
+Цена 38 790 сом
+№ 8 - Название Телевизор KIVI 55U740LB
+Цена 55 990 сом
+№ 9 - Название Телевизор KIVI 43U740LB
+Цена 35 990 сом
+№ 10 - Название Телевизор KIVI 32H540LB
+Цена 16 990 сом
